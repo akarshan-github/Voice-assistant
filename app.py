@@ -3,7 +3,6 @@ import webbrowser
 import os
 import time
 import subprocess
-from ecapture import ecapture as ec
 import wolframalpha
 import json
 import requests
@@ -233,8 +232,6 @@ def run_opticron(voice_eng):
                 webbrowser.open_new_tab("https://www.youtube.com/watch?v=e41Bwihtke8")
                 time.sleep(60)
 
-            elif "camera" in user_request or "take a photo" in user_request:
-                ec.capture(0, "robo camera", "img.jpg")
 
             elif 'iitj' in user_request:
                 webbrowser.open_new_tab("https://www.iitj.ac.in/")
