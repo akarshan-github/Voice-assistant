@@ -8,6 +8,8 @@ jsonschema-specifications==2023.7.1
 python-dateutil==2.8.2
 pyttsx3==2.71
 PyAudio==0.2.12
+toml==0.10.2
+xmltodict==0.13.0
 referencing==0.30.2
 requests==2.28.1
 SpeechRecognition==3.8.1
