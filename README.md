@@ -6,7 +6,7 @@ To design a voice assistant that can perform the following task :
 Open YouTube, Gmail, Google chrome and stack overflow. Predict current time, take a photo, search Wikipedia to abstract required data, predict weather in different cities, get top headline news from Times of India and can answer computational and geographical questions too.
 
 
-##DEMO VIDEO - "https://drive.google.com/file/d/1p0vue1R_N47itniOj-JJKCO_LFnjKGd_/view?usp=sharing"
+##DEMO VIDEO - https://drive.google.com/file/d/1RU7j8bkHTvX3GsqHeQmb3JfChtaqvUzt/view?usp=sharing
 
 Steps for execution:
 
